@@ -1,7 +1,7 @@
 FROM alpine:3.12
 
 LABEL description "prometheus for ARMv6"
-MAINTAINER mrbenta
+MAINTAINER mirceabenta
 
 ARG version=2.40.1
 
